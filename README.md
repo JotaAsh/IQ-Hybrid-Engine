@@ -171,6 +171,13 @@ ruff format src tests
 
 ---
 
+## Acknowledgments & Collaborators
+
+* **Author & Lead Maintainer**: [JotaAsh](https://github.com/JotaAsh)
+* **AI Pair Programming Assistant**: Antigravity (Google DeepMind)
+
+---
+
 ## License
 
 This project is licensed under the terms of the [Apache 2.0 License](LICENSE).
