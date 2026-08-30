@@ -1,0 +1,7 @@
+{
+  "solver": "greedy",
+  "wide_ladder": false,
+  "imatrix_method": "add",
+  "imatrix_output_dir": "iMatrix",
+  "verbose": false
+}
